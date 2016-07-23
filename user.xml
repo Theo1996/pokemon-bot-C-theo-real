@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-16"?>
+<UserSettingsXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AuthType>Google</AuthType> <!-- Google/Ptc -->
+  <DefaultLatitude>37.9761272</DefaultLatitude> <!-- Default Amsterdam Central Station -->
+  <DefaultLongitude>23.735019400000056</DefaultLongitude> <!-- Default Amsterdam Central Station -->
+  <DefaultAltitude>10</DefaultAltitude>
+  <GoogleRefreshToken>1/ctnwaqf1EEjejM0s-Qb-WT8mV6-1vh-3KnKQMdqCgD8</GoogleRefreshToken>
+  <PtcPassword>theootakureal</PtcPassword>
+  <PtcUsername>theootakureal</PtcUsername>
+  <KeepMinIVPercentage>85</KeepMinIVPercentage>
+  <KeepMinCP>400</KeepMinCP>
+  <WalkingSpeedInKilometerPerHour>30</WalkingSpeedInKilometerPerHour>
+  <PokemonsToEvolve>
+
+    
+
+
+
+
+  </PokemonsToEvolve>
+  <ItemRecycleFilter> <!-- Type and amount to keep -->
+    <Filter>
+      <Name>ItemUnknown</Name>
+      <Count>0</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemPokeBall</Name>
+      <Count>50</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemGreatBall</Name>
+      <Count>50</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemUltraBall</Name>
+      <Count>70</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemMasterBall</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemPotion</Name>
+      <Count>60</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemSuperPotion</Name>
+      <Count>60</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemHyperPotion</Name>
+      <Count>60</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemMaxPotion</Name>
+      <Count>60</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemRevive</Name>
+      <Count>80</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemMaxRevive</Name>
+      <Count>50</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemLuckyEgg</Name>
+      <Count>200</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemIncenseOrdinary</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemIncenseSpicy</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemIncenseCool</Name>
+      <Count>0</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemIncenseFloral</Name>
+      <Count>0</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemTroyDisk</Name>
+      <Count>30</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemXAttack</Name>
+      <Count>0</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemXDefense</Name>
+      <Count>0</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemXMiracle</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemRazzBerry</Name>
+      <Count>40</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemBlukBerry</Name>
+      <Count>10</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemNanabBerry</Name>
+      <Count>10</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemWeparBerry</Name>
+      <Count>30</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemPinapBerry</Name>
+      <Count>30</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemSpecialCamera</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemIncubatorBasicUnlimited</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemIncubatorBasic</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemPokemonStorageUpgrade</Name>
+      <Count>100</Count>
+    </Filter>
+    <Filter>
+      <Name>ItemItemStorageUpgrade</Name>
+      <Count>100</Count>
+    </Filter>
+  </ItemRecycleFilter>
+</UserSettingsXml>
